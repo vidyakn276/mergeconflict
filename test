@@ -1,0 +1,5 @@
+node {
+  stage('scm') {
+    echo "Hi, test file from SCM"
+  }
+}
