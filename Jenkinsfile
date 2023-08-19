@@ -1,5 +1,5 @@
 node {
-  stage('Stage SCM') {
-    echo "Jenkinsfile from SCM"
+  stage('Hi') {
+    echo "Hi, Jenkinsfile from SCM"
   }
 }
